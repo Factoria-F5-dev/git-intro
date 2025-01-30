@@ -191,3 +191,9 @@ git merge nueva-rama
   ```
 
 🚨 🚨 **¿Me suenan los comandos esenciales?** 🚨 🚨
+
+## 5. Recursos Adicionales
+
+- [Pro Git Book (PDF)](https://jorgebenitezlopez.com/tiddlywiki/pro/Introduction-to-docker-dark.pdf](https://git-scm.com/book/en/v2))
+
+**[⬆ back to top](#Índice)**
