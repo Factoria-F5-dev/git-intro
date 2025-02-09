@@ -195,5 +195,6 @@ git merge nueva-rama
 ## 5. Recursos Adicionales
 
 - [Pro Git Book (PDF)](https://git-scm.com/book/en/v2)
+- [Conecta github con clave ssh](https://warrenworks.com/wp-content/uploads/2022/09/Configure_SSH_For_GitHub.pdf)
 
 **[⬆ back to top](#Índice)**
